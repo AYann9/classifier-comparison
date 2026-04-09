@@ -39,9 +39,3 @@ We analyze decision boundaries, classification accuracy, and how data covariance
 - LDA: maximizes between-class variance / minimizes within-class variance.
 - SVM: maximizes the margin between support vectors.
 - LDA relies on distribution assumptions; SVM is distribution-free.
-
-## Quick Start
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/classifier-comparison.git
-cd classifier-comparison
